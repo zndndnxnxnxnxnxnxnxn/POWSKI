@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="milfcutscenebf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HEY!!0000" x="5" y="5" width="424" height="417"/>
+	<SubTexture name="BF HEY!!0001" x="5" y="5" width="424" height="417"/>
+	<SubTexture name="BF HEY!!0002" x="439" y="5" width="424" height="417"/>
+	<SubTexture name="BF HEY!!0003" x="439" y="5" width="424" height="417"/>
+	<SubTexture name="BF HEY!!0004" x="5" y="432" width="424" height="417"/>
+	<SubTexture name="BF idle dance0000" x="439" y="417" width="424" height="417"/>
+	<SubTexture name="BF idle dance0001" x="439" y="417" width="424" height="417"/>
+	<SubTexture name="BF idle dance0002" x="993" y="5" width="424" height="417"/>
+	<SubTexture name="BF idle dance0003" x="993" y="5" width="424" height="417"/>
+	<SubTexture name="BF idle dance0004" x="873" y="432" width="424" height="417"/>
+	<SubTexture name="BF idle dance0005" x="873" y="432" width="424" height="417"/>
+</TextureAtlas>
