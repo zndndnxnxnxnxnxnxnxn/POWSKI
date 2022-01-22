@@ -18,3 +18,4 @@ senpai
 senpai-angry
 spirit
 jess
+playablejess
