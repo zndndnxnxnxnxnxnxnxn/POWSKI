@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				7
+			],
+			"loop": false,
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/milfcutscenebf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
