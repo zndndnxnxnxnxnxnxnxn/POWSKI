@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ben.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BEN Dancing Beat0000" x="125" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0001" x="125" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0002" x="125" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0003" x="5" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0004" x="5" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0005" x="5" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0006" x="1295" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0007" x="1295" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0008" x="1295" y="1295" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0009" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0010" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0011" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0012" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0013" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0014" x="1415" y="5" width="1280" height="1280"/>
+	<SubTexture name="BEN Dancing Beat0015" x="1415" y="5" width="1280" height="1280"/>
+</TextureAtlas>
