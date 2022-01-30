@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				65
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BEN Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ben",
+	"position": [
+		-370,
+		-190
+	],
+	"healthicon": "Face",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
