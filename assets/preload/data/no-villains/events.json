@@ -1,0 +1,114 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "field",
+		"player1": "bf",
+		"player2": "2vsenpai",
+		"player3": null,
+		"events": [
+			[
+				63300,
+				[
+					[
+						"Change Character",
+						"1",
+						"2vsenpaiangry"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"1",
+						"2vsenpai"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"1",
+						"2vsenpaiangry"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"1",
+						"2vsenpaiangry"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"1",
+						"2vsenpaiangry"
+					],
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1000",
+						"700"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134625,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Villains"
+	}
+}
