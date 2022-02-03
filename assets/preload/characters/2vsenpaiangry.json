@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Angry Idle"
+		},
+		{
+			"offsets": [
+				47,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Angry Left pose"
+		},
+		{
+			"offsets": [
+				1,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Angry Down Pose"
+		},
+		{
+			"offsets": [
+				19,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Angry Up pose"
+		},
+		{
+			"offsets": [
+				31,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Angry Right pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/2VPLUS_angrysenpai",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-2V-angrysenpai",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		169,
+		111
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
